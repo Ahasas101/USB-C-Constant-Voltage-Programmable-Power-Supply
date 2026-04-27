@@ -1,4 +1,4 @@
-USB-C Power Delivery Based Programmable DC Power Supply
+100 W USB-C Power Delivery Based Programmable DC Power Supply
 Overview
 
 This project implements a compact, programmable DC power supply using USB-C Power Delivery (USB-PD). It negotiates multiple voltage levels from a USB-C charger and provides a regulated, adjustable DC output suitable for electronics development and testing.
