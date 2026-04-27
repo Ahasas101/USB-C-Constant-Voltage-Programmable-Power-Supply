@@ -1,4 +1,4 @@
-Demonstration Video: https://www.youtube.com/shorts/JLkv3YMJE9I
+Demonstration Video: YouTube
 
 100 W USB-C Power Delivery Based Programmable DC Power Supply
 Overview
