@@ -1,0 +1,6 @@
+../BSP/src/INA226.c:20:6:INA226_WriteReg	1
+../BSP/src/INA226.c:33:10:INA226_ReadReg	2
+../BSP/src/INA226.c:46:20:INA226_Init	3
+../BSP/src/INA226.c:63:7:INA226_ReadBusVoltage	1
+../BSP/src/INA226.c:69:7:INA226_ReadCurrent	1
+../BSP/src/INA226.c:76:7:INA226_ReadPower	1
